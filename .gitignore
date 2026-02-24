@@ -1,1 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
 
+# Ignore local CSV copies if you want clients to use their own
+# *.csv
+
+# Ignore output if files are large and not needed in repo
+# output/
