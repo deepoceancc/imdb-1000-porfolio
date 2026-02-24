@@ -1,0 +1,12 @@
+,Poster_Link,Series_Title,Released_Year,Certificate,Runtime,Genre,IMDB_Rating,Overview,Meta_score,Director,Star1,Star2,Star3,Star4,No_of_Votes,Gross
+count,1000,1000,1000,899,1000,1000,1000.0,1000,843.0,1000,1000,1000,1000,1000,1000.0,831
+unique,1000,999,100,16,140,202,,1000,,548,660,841,891,939,,823
+top,"https://m.media-amazon.com/images/M/MV5BODcxYjUxZDgtYTQ5Zi00YmQ1LWJmZmItODZkOTYyNDhiNWM3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",Drishyam,2014,U,100 min,Drama,,A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.,,Alfred Hitchcock,Tom Hanks,Emma Watson,Rupert Grint,Michael Caine,,"4,360,000"
+freq,1,2,32,234,23,85,,1,,14,12,7,5,4,,5
+mean,,,,,,,7.949300000000012,,77.97153024911032,,,,,,273692.911,
+std,,,,,,,0.27549120749200917,,12.376099328602022,,,,,,327372.7039341249,
+min,,,,,,,7.6,,28.0,,,,,,25088.0,
+25%,,,,,,,7.7,,70.0,,,,,,55526.25,
+50%,,,,,,,7.9,,79.0,,,,,,138548.5,
+75%,,,,,,,8.1,,87.0,,,,,,374161.25,
+max,,,,,,,9.3,,100.0,,,,,,2343110.0,
